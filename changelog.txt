@@ -1,0 +1,5 @@
+== Changelog ==
+
+21/06/2020
+0.0.1
+- First proof of concept.
